@@ -5,7 +5,7 @@ Matching Gnome-shell theme for Arch-Frost-GTK theme.
 If you're reading this on GitHub, and are using an Arch based distro, open a terminal and type:
 
 
-yaourt -S arch-frost-gtk arch-frost
+yaourt -S arch-frost-shell
 
 Also, if you want to change the Arch "A" logo at the top, I have included a generic
 icon to replace it with. Navigate to /usr/share/themes/arch-frost-shell/assets and replace
